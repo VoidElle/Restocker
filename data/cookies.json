@@ -1,0 +1,129 @@
+[
+    {
+        "domain": ".restocks.net",
+        "expiry": 1705965653,
+        "httpOnly": false,
+        "name": "_uetvid",
+        "path": "/",
+        "secure": false,
+        "value": "404c0170870611ed80738febc0f989a4"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1672356053,
+        "httpOnly": false,
+        "name": "_uetsid",
+        "path": "/",
+        "secure": false,
+        "value": "404bc730870611ed9997a378a5d6fa39"
+    },
+    {
+        "domain": "restocks.net",
+        "expiry": 1672276853,
+        "httpOnly": true,
+        "name": "restocks_session",
+        "path": "/",
+        "secure": false,
+        "value": "eyJpdiI6IkcyYklQYjZVVXlqMnVNL2R0anJzclE9PSIsInZhbHVlIjoiWWpUT3JUV2VPaWpiTGRPU1d1Z1Z5ZVAxMi9WNWdoS3c1QVRaTXBXQngvbGp6MUJGYzVZMU1wdm83dXh2M2pxQmZ1ZDN2YWNsRzVjeEp5azVsUzZOUmsrcFFPcGNvdmNlcTNkb0dmWHZFMFNZNXhLUzhWM2JKZ2wyZ1RyekxwOEciLCJtYWMiOiI5NGNlNTNlNDI2YzUzNWQxOWQwZDJmYTcxZWRiYWU2ZmIzMzdiZWU0MDIxNTg0ZTQ5ZmI3ZTllNDlmMDk3OTEyIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1672269703,
+        "httpOnly": false,
+        "name": "_gat_UA-127304260-1",
+        "path": "/",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": "restocks.net",
+        "expiry": 1672276853,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "secure": false,
+        "value": "eyJpdiI6IldKbk56dGdBOTUwRXh1OTFuRmtWWGc9PSIsInZhbHVlIjoia2NuNFJXM09DcjJ5UGhvc3NHOEFKYTJyTjlkL1JZeS80NUVHaFV3dXMvVE5jSlcrNE1sRHdUTkc0WTlKZkpZVEtUOTNYQ3RhZlc5WXM3dkh3ek40WG1QMW96aCtIbWR4YXpPaEh4YWlPNyszNDRRdHJFUTJwUCtVdXBTZTEzOG4iLCJtYWMiOiI4MTg5NjBhOTZkZDE5YjYwM2RkNjQ1OWI1NGFhNDI2YWY3NjljNmQxOWFjZGEzZmMyMzBmYjIyNTBlODhjYzUyIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "restocks.net",
+        "expiry": 1706829653,
+        "httpOnly": true,
+        "name": "locale",
+        "path": "/",
+        "secure": false,
+        "value": "eyJpdiI6InRlTDhXV0NnS0NTZlNyalpQWG14M1E9PSIsInZhbHVlIjoibzRrZ3lVYjV4NGR6RlZnQ3E3NzhJVEtLYlpRYy9UUHZWVC8vQUxjQ1Z2RXQ4WHNaS28va1BqTHhCK2R6bWh3MCIsIm1hYyI6IjFjYjlhNjc1ZGMwYTJhMjY2MTU3OGMxNmEwMzkwNGQ3MTgxZTYyMjU0MTI2NzllMjY1NGQyMmNjODBjMzRiMjEiLCJ0YWciOiIifQ%3D%3D"
+    },
+    {
+        "domain": "restocks.net",
+        "httpOnly": true,
+        "name": "country",
+        "path": "/",
+        "secure": false,
+        "value": "eyJpdiI6IkNheEZ1U0pVcjBYTm54ckNnOVJiWkE9PSIsInZhbHVlIjoiNVM3TmJINHlDNDBjMTVUUDZaQ2E0dm1HZ1hkRWZsaGdnNG9OeCs2UDNVc1IwYkxVTUluZGpxY0VFZWc0b1lNciIsIm1hYyI6IjU0Njk0YWFhYjg4NDE1MTAyZDMzMTY4OTk0ZGZlYjY0MTA2OWNhMzcwZjJmZWU5YjI5YjZkZWE0NmE4M2I2ZjIiLCJ0YWciOiIifQ%3D%3D"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1705965654,
+        "httpOnly": false,
+        "name": "_ttp",
+        "path": "/",
+        "secure": false,
+        "value": "e1Ijp7jdD3bxrIk17MTDDGhf3he"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1706829653,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "secure": false,
+        "value": "GA1.2.693020336.1672269644"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1705965654,
+        "httpOnly": false,
+        "name": "_tt_enable_cookie",
+        "path": "/",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1672356053,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "secure": false,
+        "value": "GA1.2.1543047683.1672269644"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1680045643,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "secure": false,
+        "value": "1.1.1527962744.1672269644"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1680045653,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fb.1.1672269643608.274475337"
+    },
+    {
+        "domain": ".restocks.net",
+        "expiry": 1672271444,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "kUDSZo0HZ_Wb7MSBCcrnd1CVFyj9hE2W5.0cfRBeNRg-1672269645-0-Abvlyz8FoD4jFF3XKdUWYW/43ye6aULjV3Q7oONnjNQK+IChgcxO9kT8ZLe1bPd+FfCImGRoToucgOcgWeB5dKQJEpI6OQuAN9uZYJZyvGu6r0/F411xpxUCntOBhKwqud9eEIeQ5JhJ8twFNiieSWhL4mQvM9ux8jgTFZ8AxLer"
+    }
+]

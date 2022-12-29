@@ -1,0 +1,11 @@
+{
+  "welcome": "👋 Ciao! Benvenuto su ReStockBot, un bot sviluppato da Oblivion Works.\n\nℹ️ Questo bot serve solamente per indicare al bot principale, che lavora sul sito, il prezzo minimo che le scarpe singolarmente possono raggiungere.\n\n👞 Se una scarpa viene inserita sul sito ma non viene specificato il prezzo minimo che può raggiungere attraverso questo bot, il suo prezzo non verrà modificato.",
+  "no_permission": "🔴 Hey! Non hai l'accesso per farlo!",
+  "buttons_action": [
+      "➕ Aggiungi una Scarpa",
+      "✏️ Modifica una Scarpa",
+      "\uD83D\uDDD1️ Elimina una Scarpa",
+      "\uD83D\uDCC3 Lista delle Scarpe Caricate",
+      "\uD83D\uDC82 Accesso"
+  ]
+}

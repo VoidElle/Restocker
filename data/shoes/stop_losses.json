@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Nike Air Force 1 Mid Off-White White",
+        "stop_loss_euro": 100,
+        "backup_price_euro": 150
+    },
+    {
+        "name": "Air Jordan 1 Mid Milan",
+        "stop_loss_euro": 100,
+        "backup_price_euro": 200
+    },
+    {
+        "name": "Nike Dunk High Black White (W)",
+        "stop_loss_euro": 300,
+        "backup_price_euro": 200
+    },
+    {
+        "name": "Nike Dunk Low Gorge Green",
+        "stop_loss_euro": 450,
+        "backup_price_euro": 100
+    },
+    {
+        "name": "Billie Eilish x Nike Air Force 1 Low Sequoia",
+        "stop_loss_euro": 149,
+        "backup_price_euro": 800
+    },
+    {
+        "name": "Nike Dunk High Blue Chill",
+        "stop_loss_euro": 480,
+        "backup_price_euro": 500
+    },
+    {
+        "name": "Air Jordan 1 Low SE Wear Away",
+        "stop_loss_euro": 460,
+        "backup_price_euro": 500
+    },
+    {
+        "name": "Jacquemus x Air Humara Pink Flash",
+        "stop_loss_euro": 495,
+        "backup_price_euro": 500
+    },
+    {
+        "name": "Yu-Gi-Oh! x adidas Adi2000 Blue Eyes White Dragon",
+        "stop_loss_euro": 495,
+        "backup_price_euro": 500
+    },
+    {
+        "name": "UGG Classic Ultra Mini Platform Black (W)",
+        "stop_loss_euro": 495,
+        "backup_price_euro": 500
+    }
+]
