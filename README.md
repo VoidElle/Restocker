@@ -1,28 +1,30 @@
 # Restocker
 ![Restock icon](./readme/icon.jpg)
 
-Restocker è un bot automatico per rendere le proprie offerte di sneakers le più economiche possibili sul sito [Restocks](https://restocks.net/).
-Il bot è formato in 2 sezioni:
-- Pannello di amministrazione utilizzando un bot di telegram per una gestione semplice
-- Bot web che permette il decrentamento dei prezzi delle sneakers
+Restocker is an automatic bot to make your sneaker offers the cheapest possible on the site [Restocks](https://restocks.net/).
+The bot consists of 2 sections:
+- Admin panel using a telegram bot for easy management
+- Web bot that allows the reduction of sneaker prices
 
 ## Features
-Le features del bot attuali sono:
-- Decremento automatico dei prezzi fino al prezzo di stop loss oppure al prezzo più economico nel momento del run del bot
-- Se il prezzo raggiunge lo stop loss e allo stesso momento la scarpa con il prezzo attuale diventa la più economica, al posto di rimanere al prezzo normale, il suo prezzo viene impostato ad un prezzo di backup, configurabile dal bot
+The current bot features are:
+- Automatic decrement of prices to the stop loss price or to the cheapest price at the moment of the bot's run
+- If the price reaches the stop loss and at the same time the shoe with the current price becomes the cheapest, instead of remaining at the normal price, its price is set to a backup price, configurable by the bot
 
 
 ## Getting Started
 
 ### Prerequisites
 
-Questa è una lista dei prerequisiti per avviare Restocker:
+This is a list of prerequisites to start Restocker:
+* 1920x1080 screen
+* Chrome browser
 * Python 3
 * pip
 
 ### Installation
 
-_Sotto trovarai le istruzioni passo passo per avviare Restocker_
+_Below you will find step by step instructions to start Restocker_
 
 1. Clone the repository
    ```sh
@@ -43,7 +45,7 @@ _Sotto trovarai le istruzioni passo passo per avviare Restocker_
         "id": 0
      }
    ```
-   You will find your ide using userinfobot in telegram
+   You will find your account id using userinfobot in telegram
 
 ## Contributing
 
