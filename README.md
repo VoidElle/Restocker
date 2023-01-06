@@ -1,10 +1,7 @@
 # Restocker
 ![Restock icon](./readme/icon.jpg)
 
-Restocker is an automatic bot to make your sneaker offers the cheapest possible on the site [Restocks](https://restocks.net/).
-The bot consists of 2 sections:
-- Admin panel using a telegram bot for easy management
-- Web bot that allows the reduction of sneaker prices
+"Restocker" is a Python bot that helps shoe sellers on the online marketplace "Restocks" maximize their profits. By constantly monitoring the prices of similar shoes being sold on the platform, the bot adjusts the prices of a seller's shoes to ensure they are competitive while still being profitable. The bot can be configured to target a specific profit margin or to base pricing decisions on a variety of factors, such as the seller's cost of goods and the current demand for the shoe. With the Restocks Price Manager, sellers can save time and effort by automating the pricing of their shoes, freeing them up to focus on other aspects of their business.
 
 ## Features
 The current bot features are:
